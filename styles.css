@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 400px;
+    margin-right: 25px;
+}
+
+#breadcrumb {
+    color: #565959;
+}
+
+#ratings {
+    width: 120px;
+}
+
+#link {
+    color: #007185;
+}
